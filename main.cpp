@@ -7663,3 +7663,10 @@ int main() {
     return 0;
 }
 
+// 연습 날짜: 2023-11-17
+#include <iostream>
+int main() {
+    std::cout << "Hello, C++! Date: 2023-11-17" << std::endl;
+    return 0;
+}
+

@@ -3211,3 +3211,10 @@ int main() {
     return 0;
 }
 
+// 연습 날짜: 2024-04-04
+#include <iostream>
+int main() {
+    std::cout << "Hello, C++! Date: 2024-04-04" << std::endl;
+    return 0;
+}
+

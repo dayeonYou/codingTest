@@ -10855,3 +10855,10 @@ int main() {
     return 0;
 }
 
+// 연습 날짜: 2024-05-11 - 커밋 7
+#include <iostream>
+int main() {
+    std::cout << "Hello, C++! Commit 7 on 2024-05-11" << std::endl;
+    return 0;
+}
+

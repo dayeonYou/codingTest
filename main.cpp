@@ -1027,3 +1027,10 @@ int main() {
     return 0;
 }
 
+// 연습 날짜: 2024-05-27
+#include <iostream>
+int main() {
+    std::cout << "Hello, C++! Date: 2024-05-27" << std::endl;
+    return 0;
+}
+
